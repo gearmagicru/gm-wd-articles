@@ -12,7 +12,7 @@
 return [
     'name'        => 'Articles',
     'description' => 'List articles',
-    'version'     => '3.0',
+    'version'     => '1.0',
     'versionDate' => '20-12-2017',
     'author'      => 'GearMagic',
     'authorUrl'   => 'https://gearmagic.ru',
