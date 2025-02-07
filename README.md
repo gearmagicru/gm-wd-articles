@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm.wd.articles/refs/heads/master/assets/images/icon.svg" width="32px" height="32px" align="absmiddle"> Виджет "Список материалов" 
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm.wd.articles/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет "Список материалов" 
 
 Виджет предназначен для вывода списка материалов (статей) из базы данных с указанными параметрами.
 
