@@ -1,4 +1,13 @@
-# <img src="https://raw.githubusercontent.com/gearmagicru/gm.wd.articles/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет "Список материалов" 
+# <img src="https://raw.githubusercontent.com/gearmagicru/gm-wd-articles/refs/heads/master/assets/images/icon.svg" width="64px" height="64px" align="absmiddle"> Виджет "Список материалов" 
+
+[![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-wd-articles.svg)](https://packagist.org/packages/gearmagicru/gm-wd-articles)
+[![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-wd-articles.svg)](https://packagist.org/packages/gearmagicru/gm-wd-articles)
+[![Author](https://img.shields.io/badge/author-anton.tivonenko@gmail.com-blue.svg)](mailto:anton.tivonenko@gmail)
+[![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--wd--articles-blue.svg)](https://github.com/gearmagicru/gm-wd-articles)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/gearmagicru/gm-wd-articles/blob/master/LICENSE)
+![Component type: widget](https://img.shields.io/badge/component%20type-widget-green.svg)
+![Component ID: gm-wd-articles](https://img.shields.io/badge/component%20id-gm.wd.articles-green.svg)
+![php 8.2+](https://img.shields.io/badge/php-min%208.2-red.svg)
 
 Виджет предназначен для вывода списка материалов (статей) из базы данных с указанными параметрами.
 
