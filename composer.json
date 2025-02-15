@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-wd-articles",
-    "description": "Site widget \"List of Articles\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "widget",
-        "articles"
-    ],
+    "description": "Website widget \"List of Articles\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "articles"],
     "homepage": "https://apps.gearmagic.ru/component/gm-wd-articles",
     "type": "component",
     "license": "MIT",
